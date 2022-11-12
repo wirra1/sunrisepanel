@@ -18,7 +18,7 @@
     align-items: center;
 }
 .Logo{
-    width: 60px;
+    width: 120px;
     cursor: pointer;
 }
 .navbar ul li{
@@ -36,7 +36,7 @@
     content:  '';
     height: 3px;
     width: 0;
-    background: rgb(0, 255, 76);
+    background: rgb(254, 255, 255);
     position: absolute;
     left: 0;
     bottom: -10px;
@@ -64,15 +64,15 @@ button{
     margin: 20px 10px;
     border-radius: 10px;
     font-weight: bold;
-    border: 2px solid rgb(255, 253, 253);
+    border: 2px solid rgb(255, 255, 255);
     background: transparent;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     cursor: pointer;
     position: relative;
     overflow: hidden;
 }
 span{
- background: rgb(0, 255, 0);
+ background: rgb(255, 255, 255);
  height: 100%;
 width: 100%;
 border: 20px;
